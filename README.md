@@ -2,13 +2,9 @@
 
 A modern and feature-rich Todo application built with React and Vite. This app is designed to help users manage their tasks efficiently using categories, filters, and a clean, responsive user interface.
 
----
-
 ## ✨ Project Overview
 
 This Todo App offers a robust task management system with essential features like task categorization, dynamic filtering, and an intuitive layout. Built using modern React practices and a modular component-based architecture, it ensures smooth usability and scalable maintainability.
-
----
 
 ## 🚀 Tech Stack
 
@@ -29,8 +25,6 @@ This Todo App offers a robust task management system with essential features lik
 - **React Hooks** – for logic encapsulation
 - **HMR (Hot Module Replacement)** – for fast development experience
 
----
-
 ## 🔑 Key Features
 
 ### ✅ Task Management
@@ -47,8 +41,6 @@ This Todo App offers a robust task management system with essential features lik
 - Clean and minimal UI
 - Responsive sidebar for navigation
 - Intuitive controls for seamless task flow
-
----
 
 ## 📁 Project Structure
 
@@ -67,8 +59,6 @@ todo-app/
 │   └── main.jsx                # Application entry point
 ├── public/                     # Static assets
 └── package.json                # Project metadata and dependencies
-
----
 
 ## 🛠️ Setup and Installation
 
