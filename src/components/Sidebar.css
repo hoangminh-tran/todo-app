@@ -1,0 +1,34 @@
+.sidebar{
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    width: 40vw;
+    background-color: white;
+    box-shadow: -3px 0 3px gray;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.sb-form {
+    padding: 10px;
+}
+
+.sb-form-field {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.sb-footer {
+    padding: 10px;
+    border-top: 1px solid grey;
+}
+
+.sb-footer button {
+    background-color: white;
+    border: 1px solid grey;
+    padding: 3px 5px;
+    border-radius: 3px;
+    margin-right: 5px;
+}
